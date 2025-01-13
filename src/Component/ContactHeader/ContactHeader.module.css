@@ -1,0 +1,14 @@
+.contact_sec{
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+
+.contact_sec h1{
+    font-size: 48px;
+    font-weight: 800px;
+    max-width: 80%;
+}
+.contact_sec p{
+    font-weight: 500px;
+}
